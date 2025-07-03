@@ -26,7 +26,7 @@ Replica is an advanced voice-controlled virtual assistant that responds to natur
 ## 2. Clone the Repository
 ```bash
 https://github.com/shubhankarchdas/Replica-Voice-Assistant.git
-cd mega project
+cd replica-voice-assistant
 ```
 
 - create a virtual environment :
