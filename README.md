@@ -16,14 +16,18 @@ Replica is an advanced voice-controlled virtual assistant that responds to natur
 - 🔍 Wikipedia search integration
 - 📍 Automatic location detection for weather
 
-## Installation
-
 ### Prerequisites
 - Python 3.7+
 - Working microphone
 - Internet connection
 
 ## ⚙️ Setup Instructions
+
+## 2. Clone the Repository
+```bash
+https://github.com/shubhankarchdas/Replica-Voice-Assistant.git
+cd mega project
+```
 
 - create a virtual environment :
 ```bash
