@@ -1,6 +1,5 @@
 # Replica Voice Assistant
 
-![Replica Logo](https://via.placeholder.com/150/7289DA/FFFFFF?text=Replica)
 
 Replica is an advanced voice-controlled virtual assistant that responds to natural language commands to perform various tasks. Built with Python, it integrates multiple APIs and services to deliver a seamless voice interaction experience.
 
@@ -24,27 +23,27 @@ Replica is an advanced voice-controlled virtual assistant that responds to natur
 - Working microphone
 - Internet connection
 
-1. Clone the repository:
+## ⚙️ Setup Instructions
+
+- create a virtual environment :
 ```bash
-git clone https://github.com/shubhankarchdas/replica-voice-assistant.git
-cd replica-voice-assistant
+python -m venv venv
+```
+##  Activate scripts :
+```bash
+venv/scripts/activate
+```
+## Install Requirements :
+```bash
 pip install -r requirements.txt
 ```
 
-
-###Voice Commands
-Activation: Say "Replica"
-
-Music: "Play [song name]"
-
-Weather: "What's the weather in [city]?" or "How's the weather?"
-
-News: "Tell me the news"
-
-Time: "What time is it?"
-
-Jokes: "Tell me a joke"
-
-Knowledge: "Who is [person]?" or "What is [topic]?"
-
-Websites: "Open Google", "Open YouTube", etc.
+### Voice Commands
+- Activation: Say "Replica"
+- Music: "Play [song name]"
+- Weather: "What's the weather in [city]?" or "How's the weather?"
+- News: "Tell me the news"
+- Time: "What time is it?"
+- Jokes: "Tell me a joke"
+- Knowledge: "Who is [person]?" or "What is [topic]?"
+- Websites: "Open Google", "Open YouTube", etc.
