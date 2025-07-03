@@ -16,8 +16,8 @@ import time
 pygame.mixer.init()
 
 # API keys
-NEWS_API_KEY = "43921f7a42d04cd5a2f5b4e3de2ded97"
-DEEPAI_API_KEY = "0a669880-787d-41a8-89e3-9bb7c135ce2f"  # Get free API key from https://deepai.org/
+NEWS_API_KEY = "<your_news_api_key>"  # Get your API key from https://newsapi.org/
+DEEPAI_API_KEY = "<your_deepai_api_key>"  # Get free API key from https://deepai.org/
 
 def speak(text):
     """Convert text to speech using gTTS and play with pygame"""
