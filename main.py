@@ -221,21 +221,4 @@ if __name__ == "__main__":
         except Exception as e:
             print(f"Main Error: {e}")
             time.sleep(1)
-
-
-
-# Say "Replica" to activate
-
-# Ask questions or give commands:
-
-# "What's the weather in London?"
-
-# "Play blinding lights"
-
-# "Tell me about Albert Einstein"
-
-# "What's the news?"
-
-# "Tell me a joke"
-
-# "What's the time?"            
+           
